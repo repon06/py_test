@@ -1,0 +1,5 @@
+[
+  "Test_Payment_System_pytest.py::test_payment_system[Payweb]",
+  "Test_Payment_System_pytest.py::test_payment_system[Perfect Money]",
+  "Test_Payment_System_pytest.py::test_payment_system[Neteller]"
+]

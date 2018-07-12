@@ -1,0 +1,7 @@
+{
+  "Test_Payment_System_pytest.py": true,
+  "Test_Payment_System_pytest.py::test_one": true,
+  "Test_Payment_System_pytest.py::test_payment_system[Neteller]": true,
+  "Test_Payment_System_pytest.py::test_payment_system[Payweb]": true,
+  "Test_Payment_System_pytest.py::test_payment_system[Perfect Money]": true
+}
